@@ -1,0 +1,12 @@
+use_exif_size: no
+feature_process_size: 2048
+feature_min_frames: 8000
+processes: 8
+matching_gps_neighbors: 8
+depthmap_method: PATCH_MATCH
+depthmap_resolution: 640
+depthmap_min_patch_sd: 1
+depthmap_min_consistent_views: 3
+optimize_camera_parameters: yes
+use_altitude_tag: True
+align_method: naive

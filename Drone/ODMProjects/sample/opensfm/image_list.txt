@@ -1,0 +1,5 @@
+/mnt/a/ODMProjects/sample/images/DSC01606.JPG
+/mnt/a/ODMProjects/sample/images/DSC01607.JPG
+/mnt/a/ODMProjects/sample/images/DSC01608.JPG
+/mnt/a/ODMProjects/sample/images/DSC01605.JPG
+/mnt/a/ODMProjects/sample/images/DSC01609.JPG

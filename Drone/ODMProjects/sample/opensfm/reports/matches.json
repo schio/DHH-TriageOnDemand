@@ -1,0 +1,49 @@
+{
+    "num_pairs_time": 0, 
+    "wall_time": 10.966588973999023, 
+    "pairs": [
+        [
+            "DSC01606.JPG", 
+            "DSC01608.JPG"
+        ], 
+        [
+            "DSC01606.JPG", 
+            "DSC01609.JPG"
+        ], 
+        [
+            "DSC01606.JPG", 
+            "DSC01607.JPG"
+        ], 
+        [
+            "DSC01608.JPG", 
+            "DSC01609.JPG"
+        ], 
+        [
+            "DSC01605.JPG", 
+            "DSC01607.JPG"
+        ], 
+        [
+            "DSC01605.JPG", 
+            "DSC01608.JPG"
+        ], 
+        [
+            "DSC01605.JPG", 
+            "DSC01606.JPG"
+        ], 
+        [
+            "DSC01605.JPG", 
+            "DSC01609.JPG"
+        ], 
+        [
+            "DSC01607.JPG", 
+            "DSC01608.JPG"
+        ], 
+        [
+            "DSC01607.JPG", 
+            "DSC01609.JPG"
+        ]
+    ], 
+    "num_pairs": 10, 
+    "num_pairs_distance": 10, 
+    "num_pairs_order": 0
+}

@@ -1,0 +1,4 @@
+imagesPath was set to: /mnt/a/ODMProjects/sample/images/
+imageListFile was set to: /mnt/a/ODMProjects/sample/img_list.txt
+outputCoordFile was set to: /mnt/a/ODMProjects/sample/odm_georeferencing/coords.txt
+logFile_ was set to: /mnt/a/ODMProjects/sample/odm_georeferencing/odm_georeferencing_utm_log.txt
