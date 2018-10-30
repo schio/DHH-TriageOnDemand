@@ -2,7 +2,7 @@
 드론을 이용하여 재난현장을 촬영한 후 WebODM을 이용하여 모델링합니다.<br>
 이후 환자에게 부착된 디바이스에서 받은 위경도를 모델링 된 이미지에 맵핑하여 전체 재난현장을 모니터링합니다.<br>
 
-MESHLAB EX
+MESHLAB
 ---------------
 ![default](https://user-images.githubusercontent.com/19237348/47696858-e6583b00-dc4b-11e8-88b5-68cb48afcc1f.png)
 
