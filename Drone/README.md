@@ -4,6 +4,7 @@
 
 MESHLAB
 ---------------
+모델링 된 .obj 파일을 MESHLAB에서 Load
 ![default](https://user-images.githubusercontent.com/19237348/47696858-e6583b00-dc4b-11e8-88b5-68cb48afcc1f.png)
 
 
