@@ -1,0 +1,118 @@
+/mnt/a/OpenDroneMap/build/bin/odm_georef_log.txt
+Arguments given
+-bundleFile
+/mnt/a/ODMProjects/odm_data_copr/opensfm/bundle_r000.out
+-imagesPath
+/mnt/a/ODMProjects/odm_data_copr/images
+-imagesListPath
+/mnt/a/ODMProjects/odm_data_copr/opensfm/list_r000.out
+-inputFile
+/mnt/a/ODMProjects/odm_data_copr/odm_texturing/odm_textured_model.obj
+-outputFile
+/mnt/a/ODMProjects/odm_data_copr/odm_texturing/odm_textured_model_geo.obj
+-inputPointCloudFile
+/mnt/a/ODMProjects/odm_data_copr/smvs/smvs_dense_point_cloud.ply
+-outputPointCloudFile
+/mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/odm_georeferenced_model.ply
+-logFile
+/mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/odm_georeferencing_log.txt
+-outputTransformFile
+/mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/odm_georeferencing_transform.txt
+-georefFileOutputPath
+/mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/odm_georeferencing_model_geo.txt
+-gcpFile
+/mnt/a/ODMProjects/odm_data_copr/gcp_list.txt
+-outputCoordFile
+/mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/coords.txt
+
+Reading cameras from: /mnt/a/ODMProjects/odm_data_copr/opensfm/bundle_r000.out
+Images location is set to: /mnt/a/ODMProjects/odm_data_copr/images
+Reading image list from: /mnt/a/ODMProjects/odm_data_copr/opensfm/list_r000.out
+Reading textured mesh from: /mnt/a/ODMProjects/odm_data_copr/odm_texturing/odm_textured_model.obj
+Writing output to: /mnt/a/ODMProjects/odm_data_copr/odm_texturing/odm_textured_model_geo.obj
+Reading point cloud from: /mnt/a/ODMProjects/odm_data_copr/smvs/smvs_dense_point_cloud.ply
+Writing output to: /mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/odm_georeferenced_model.ply
+Log file path was set to: /mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/odm_georeferencing_log.txt
+Transform file path was set to: /mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/odm_georeferencing_transform.txt
+Georef file output path is set to: /mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/odm_georeferencing_model_geo.txt
+Reading GCPs from: /mnt/a/ODMProjects/odm_data_copr/gcp_list.txt
+Exporting cameras georeferenced gps positions to: /mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/coords.txt
+
+Reading following GCPs from file:
+x_: 235277.610 y_: 3811190.360 z_: 0.000 pixelX_: 3483.000 pixelY_: 729.000 image: IMG_0031.jpg idgcp_: 
+x_: 235281.010 y_: 3811195.140 z_: 0.000 pixelX_: 731.000 pixelY_: 1017.000 image: IMG_0031.jpg idgcp_: 
+x_: 235269.880 y_: 3811198.110 z_: 0.000 pixelX_: 3608.000 pixelY_: 2292.000 image: IMG_0037.jpg idgcp_: 
+x_: 235269.880 y_: 3811198.110 z_: 0.000 pixelX_: 586.000 pixelY_: 1028.000 image: IMG_0121.jpg idgcp_: 
+x_: 235269.890 y_: 3811203.160 z_: 0.000 pixelX_: 2040.000 pixelY_: 1017.000 image: IMG_0046.jpg idgcp_: 
+x_: 235262.540 y_: 3811203.500 z_: 0.000 pixelX_: 3472.000 pixelY_: 1002.000 image: IMG_0052.jpg idgcp_: 
+x_: 235264.490 y_: 3811213.700 z_: 0.000 pixelX_: 1472.000 pixelY_: 1110.000 image: IMG_0067.jpg idgcp_: 
+x_: 235258.910 y_: 3811213.600 z_: 0.000 pixelX_: 3910.000 pixelY_: 916.000 image: IMG_0073.jpg idgcp_: 
+x_: 235257.740 y_: 3811222.650 z_: 0.000 pixelX_: 2020.000 pixelY_: 2148.000 image: IMG_0073.jpg idgcp_: 
+x_: 235246.250 y_: 3811220.600 z_: 0.000 pixelX_: 3407.000 pixelY_: 995.000 image: IMG_0088.jpg idgcp_: 
+x_: 235248.030 y_: 3811227.250 z_: 0.000 pixelX_: 1082.000 pixelY_: 764.000 image: IMG_0091.jpg idgcp_: 
+
+The calculated easting offset for the georeferenced system: 235264.000
+The calculated northing offset for the georeferenced system: 3811207.000
+
+Recalculated GCPs with offset:
+x_: 13.610 y_: -16.640 z_: 0.000
+x_: 17.010 y_: -11.860 z_: 0.000
+x_: 5.880 y_: -8.890 z_: 0.000
+x_: 5.880 y_: -8.890 z_: 0.000
+x_: 5.890 y_: -3.840 z_: 0.000
+x_: -1.460 y_: -3.500 z_: 0.000
+x_: 0.490 y_: 6.700 z_: 0.000
+x_: -5.090 y_: 6.600 z_: 0.000
+x_: -6.260 y_: 15.650 z_: 0.000
+x_: -17.750 y_: 13.600 z_: 0.000
+x_: -15.970 y_: 20.250 z_: 0.000
+
+Reading mesh file /mnt/a/ODMProjects/odm_data_copr/odm_texturing/odm_textured_model.obj
+
+Successfully loaded /mnt/a/ODMProjects/odm_data_copr/odm_texturing/odm_textured_model.obj.
+Position in model for gcp 1: x=-55.666 y=57.977 z=-44.784
+Position in model for gcp 2: x=-55.698 y=40.615 z=-56.333
+Position in model for gcp 3: x=-25.506 y=54.084 z=-48.871
+Position in model for gcp 4: x=-25.134 y=54.265 z=-48.773
+Position in model for gcp 5: x=-16.437 y=38.636 z=-57.054
+Position in model for gcp 6: x=-0.861 y=50.117 z=-49.215
+Position in model for gcp 7: x=9.920 y=28.076 z=-62.509
+Position in model for gcp 8: x=29.299 y=40.514 z=-53.718
+Position in model for gcp 9: x=35.861 y=20.929 z=-67.181
+Position in model for gcp 10: x=57.555 y=35.153 z=-58.138
+Position in model for gcp 11: x=66.858 y=19.367 z=-67.947
+
+Choosing optimal gcp triplet...
+[1 of 8] Mean georeference error 1.245 (0, 4, 5)
+[2 of 8] Mean georeference error 1.535 (1, 5, 6)
+[4 of 8] Mean georeference error 1.323 (3, 8, 10)
+[5 of 8] Mean georeference error 1.843 (4, 9, 10)
+[6 of 8] Mean georeference error 1.254 (5, 9, 10)
+[3 of 8] Mean georeference error 1.302 (2, 8, 10)
+[7 of 8] Mean georeference error 1.540 (6, 9, 10)
+[8 of 8] Mean georeference error 6.172 (7, 8, 10)
+Mean georeference error 1.245
+Optimal gcp triplet chosen: 0, 4, 5
+
+Final transform:
+[ -0.30605048,	-0.15588914,	-0.10778452,	0.78454644 ]
+[ 0.18947447,	-0.25630024,	-0.16731836,	1.27362159 ]
+[ -0.00428379,	-0.19898388,	0.29995481,	24.73113730 ]
+[ 0.00000000,	0.00000000,	0.00000000,	1.00000000 ]
+
+Applying transform to mesh...
+.. mesh transformed.
+
+Successfully saved model.
+
+Saving final transform file to '/mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/odm_georeferencing_transform.txt'...
+... final transform saved.
+Successfully loaded 5135971 points with corresponding normals from file.
+Writing transformed point cloud to /mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/odm_georeferenced_model.ply...
+Point cloud file saved.
+
+Saving georeferenced camera positions to /mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/coords.txt
+...coordinate file saved.
+
+Saving georeference system file to '/mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/odm_georeferencing_model_geo.txt'...
+... georeference system saved.

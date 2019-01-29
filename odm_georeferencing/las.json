@@ -1,0 +1,1 @@
+{  "pipeline":[    "untransformed.ply",    {      "type":"writers.las",      "a_srs":"+proj=utm +zone=11 +ellps=WGS84 +datum=WGS84 +units=m +no_defs ",      "offset_x":"235264.784546",      "offset_y":"3811208.27362",      "offset_z":"0",      "compression":"laszip",      "filename":"/mnt/a/ODMProjects/odm_data_copr/odm_georeferencing/odm_georeferenced_model.laz"    }  ]}

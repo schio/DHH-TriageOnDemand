@@ -1,0 +1,2 @@
++proj=utm +zone=11 +ellps=WGS84 +datum=WGS84 +units=m +no_defs	
+235264.7845464 3811208.2736216
